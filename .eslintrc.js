@@ -32,6 +32,7 @@ module.exports = {
     'jest/no-identical-title': 'error',
     'jest/prefer-to-have-length': 'warn',
     'jest/valid-expect': 'error',
+    'react/prop-types': 0,
   },
   settings: {
     'import/resolver': {
