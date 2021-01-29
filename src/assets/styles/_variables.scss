@@ -1,0 +1,57 @@
+// Colors
+$primary: #002e49;
+$secondary: #1fb6bd;
+$accent: #FF7801;
+$alert: #FF4B01;
+$white: #FFFFFF;
+$black: #000000;
+$white: #FFFFFF; 
+$gray: #EFEFEF;
+$grey1: #F7F7F7;
+$grey2: #E2E2E2;
+$grey3: #ACACAC;
+$grey4: #979797;
+$whiteText: #F7F7F7;
+$shadow: #0F1835;
+
+// HTML elements
+$root_size: 14px;
+$h1_font-size: 2.3rem;
+$h2_font-size: 1.8rem;
+$h3_font-size: 1.5rem;
+$h4_font-size: 1.5rem;
+$h5_font-size: 1.25rem;
+$h6_font-size: 1rem;
+$body_fz: 1rem;
+$general_fz: 0.9rem;
+$link_fz: 0.75rem;
+$label_fz: 0.75rem;
+$caption_fz: 0.5rem;
+$button_small: 1.875rem;
+$button_big: 2.5rem;
+
+// SHADOWS
+$pop_shadow: (
+	'offX': 0px, 
+	'offY': 3px, 
+	'blur': 6px, 
+	'spread': 0px, 
+	'color': $shadow, 
+	'alpha': 0.16
+);
+$hover_shadow: (
+	'offX': 0rem, 
+	'offY': 1.12rem, 
+	'blur': 3rem, 
+	'spread': -0.75rem, 
+	'color': $black, 
+	'alpha': 0.35
+);
+$hoverSmall_shadow: (
+	'offX': 0rem, 
+	'offY': 0.68rem, 
+	'blur': 2.37rem, 
+	'spread': -0.75rem, 
+	'color': $black, 
+	'alpha': 0.35
+);
